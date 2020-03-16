@@ -54,6 +54,31 @@
       "id": 11,
       "name": "Black",
       "surname": "VDOVA)"
+    },
+    {
+      "id": 12,
+      "name": "HULK",
+      "surname": "BEI"
+    },
+    {
+      "id": 13,
+      "name": "Black",
+      "surname": "Panter"
+    },
+    {
+      "id": 14,
+      "name": "Vision",
+      "surname": "Brain"
+    },
+    {
+      "id": 15,
+      "name": "Rocket",
+      "surname": "Enot"
+    },
+    {
+      "id": 16,
+      "name": "Tor",
+      "surname": "Gromoverjets)"
     }
   ]
 }
