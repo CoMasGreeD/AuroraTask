@@ -49,7 +49,7 @@
    {
       "id": 6,
       "name": "Joker",
-      "hero_or_not": "Villain",
+      "hero_or_villain": "Villain",
       "marvel_or_dc" : "DC",
       "image" : "https://filmschoolrejects.com/wp-content/uploads/2020/02/Joker.png",
      "image_icon" : "https://www.kinonews.ru/stuff/c5c6af4a7c5b397.jpg",
