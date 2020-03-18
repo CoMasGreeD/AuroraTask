@@ -1,84 +1,52 @@
 {
-  "transactions": [
+  "characters": [
     {
       "id": 1,
-      "name": "carl",
-      "surname": "speng"
+      "name": "Thor",
+      "hero_or_villain": "Hero",
+      "marvel_or_dc" : "Marvel",
+      "image" : "https://i.pinimg.com/originals/cd/9d/3f/cd9d3fe18685573bddd2b14e2db59085.jpg",
+      "detail" : "As the Norse god of thunder, Thor can summon the elements of the storm (lightning, rain, wind, snow) and uses Mjolnir as a tool to focus this ability, although the hammer cannot command artificial weather, only natural." 
     },
-    {
+   {
       "id": 2,
-      "name": "mari",
-      "surname": "roul"
+      "name": "Batman",
+      "hero_or_villain": "Hero",
+      "marvel_or_dc" : "DC"
+      "image" : "https://steamuserimages-a.akamaihd.net/ugc/860613927510814225/6BE0C60FA55405EE1A9402C41116ADBF452921DC/",
+      "detail" : "Batman's secret identity is Bruce Wayne, a wealthy American industrialist. As a child, Bruce witnessed the murder of his parents, Dr. Thomas Wayne and Martha Wayne, which ultimately led him to craft the Batman persona and seek justice against criminals. He resides on the outskirts of Gotham City in his personal residence, Wayne Manor ",
     },
-    {
+     {
       "id": 3,
-      "name": "pavel",
-      "surname": "kish"
+      "name": "Iron Man",
+      "hero_or_villain": "Hero",
+      "marvel_or_dc" : "Marvel",
+      "image" : "https://i.pinimg.com/originals/76/46/40/76464089d6cb898077c3b905b336dd12.jpg",
+      "detail" : "As the Norse god of thunder, Thor can summon the elements of the storm (lightning, rain, wind, snow) and uses Mjolnir as a tool to focus this ability, although the hammer cannot command artificial weather, only natural." 
     },
-    {
+   {
       "id": 4,
-      "name": "GIVE",
-      "surname": "MECHANCE"
+      "name": "Thanos",
+      "hero_or_villain": "Villain",
+      "marvel_or_dc" : "Marvel"
+      "image" : "https://img03.rl0.ru/b3c93d45c4bd1c5ac72797ae0b33eb91/c615x400i/news.rambler.ru/img/2018/05/02200642.256352.252.jpeg",
+      "detail" : "An Eternal with the Deviant gene which makes him unique and extremely powerful, even amongst his own kind. Above all else, Thanos loves and worships Mistress Death. Few can equal his intelligence, strength and ambition for power. Thanos has wielded the Cosmic Cube, the Infinity Gauntlet and even the Heart of the Universe.",
     },
-    {
+     {
       "id": 5,
-      "name": "kolian",
-      "surname": "Krevetka"
+      "name": "Spider-Man",
+      "hero_or_villain": "Hero",
+      "marvel_or_dc" : "Marvel",
+      "image" : "https://i.pinimg.com/originals/cd/9d/3f/cd9d3fe18685573bddd2b14e2db59085.jpg",
+      "detail" : "A bite from a radioactive spider triggers mutations in Peter Parker's body, granting him superpowers.Spider-Man's other powers include significantly superhuman strength, a precognitive sixth sense famously referred to as his "spider-sense" or "spidey-sense" that alerts him to danger, perfect balance and equilibrium, as well as superhuman speed and agility." 
     },
-    {
+   {
       "id": 6,
-      "name": "Nikita",
-      "surname": "Tev"
-    },
-    {
-      "id": 7,
-      "name": "Pasha",
-      "surname": "Nistuk"
-    },
-    {
-      "id": 8,
-      "name": "Tanos",
-      "surname": "Destroyer"
-    },
-    {
-      "id": 9,
-      "name": "Captain",
-      "surname": "America"
-    },
-    {
-      "id": 10,
-      "name": "Toni",
-      "surname": "Stark"
-    },
-    {
-      "id": 11,
-      "name": "Black",
-      "surname": "VDOVA)"
-    },
-    {
-      "id": 12,
-      "name": "HULK",
-      "surname": "BEI"
-    },
-    {
-      "id": 13,
-      "name": "Black",
-      "surname": "Panter"
-    },
-    {
-      "id": 14,
-      "name": "Vision",
-      "surname": "Brain"
-    },
-    {
-      "id": 15,
-      "name": "Rocket",
-      "surname": "Enot"
-    },
-    {
-      "id": 16,
-      "name": "Tor",
-      "surname": "Gromoverjets)"
+      "name": "Joker",
+      "hero_or_not": "Villain",
+      "marvel_or_dc" : "DC"
+      "image" : "https://filmschoolrejects.com/wp-content/uploads/2020/02/Joker.png",
+      "detail" : "This character is one of the most heinous of the villains that has ever existed in any comic book.  It was hinted in one that he has over 2,000 kills to his name.  His evil truly knows no bounds.  But he is also an example of what humanity could indeed become.  Mental madness means one thing, but when people are taught that mass killing is worthy of being canonized, then it may just be what happens to society at large. ",
     }
   ]
 }
