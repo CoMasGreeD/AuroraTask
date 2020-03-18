@@ -6,7 +6,9 @@
       "hero_or_villain": "Hero",
       "marvel_or_dc" : "Marvel",
       "image" : "https://i.pinimg.com/originals/cd/9d/3f/cd9d3fe18685573bddd2b14e2db59085.jpg",
+      "image_icon" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/MarvelLogo.svg/1200px-MarvelLogo.svg.png",
       "detail" : "As the Norse god of thunder, Thor can summon the elements of the storm (lightning, rain, wind, snow) and uses Mjolnir as a tool to focus this ability, although the hammer cannot command artificial weather, only natural." 
+
     },
    {
       "id": 2,
@@ -14,6 +16,7 @@
       "hero_or_villain": "Hero",
       "marvel_or_dc" : "DC"
       "image" : "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbatman-arkham-asylum%2Fhome%2FEGS_WB_Batman_Arkham_Asylum_L1_2560x1440_19_0911-2560x1440-bdfb966b14e5f9bb6a2bf48a148d36566ca96df0.jpg?h=1080&resize=1&w=1920",
+      "image_icon" : "https://www.kinonews.ru/stuff/c5c6af4a7c5b397.jpg", 
       "detail" : "Batman's secret identity is Bruce Wayne, a wealthy American industrialist. As a child, Bruce witnessed the murder of his parents, Dr. Thomas Wayne and Martha Wayne, which ultimately led him to craft the Batman persona and seek justice against criminals. He resides on the outskirts of Gotham City in his personal residence, Wayne Manor ",
     },
      {
@@ -22,6 +25,7 @@
       "hero_or_villain": "Hero",
       "marvel_or_dc" : "Marvel",
       "image" : "https://i.pinimg.com/originals/76/46/40/76464089d6cb898077c3b905b336dd12.jpg",
+      "image_icon" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/MarvelLogo.svg/1200px-MarvelLogo.svg.png",
       "detail" : "As the Norse god of thunder, Thor can summon the elements of the storm (lightning, rain, wind, snow) and uses Mjolnir as a tool to focus this ability, although the hammer cannot command artificial weather, only natural." 
     },
    {
@@ -30,6 +34,7 @@
       "hero_or_villain": "Villain",
       "marvel_or_dc" : "Marvel"
       "image" : "https://img03.rl0.ru/b3c93d45c4bd1c5ac72797ae0b33eb91/c615x400i/news.rambler.ru/img/2018/05/02200642.256352.252.jpeg",
+     "image_icon" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/MarvelLogo.svg/1200px-MarvelLogo.svg.png",
       "detail" : "An Eternal with the Deviant gene which makes him unique and extremely powerful, even amongst his own kind. Above all else, Thanos loves and worships Mistress Death. Few can equal his intelligence, strength and ambition for power. Thanos has wielded the Cosmic Cube, the Infinity Gauntlet and even the Heart of the Universe.",
     },
      {
@@ -38,6 +43,7 @@
       "hero_or_villain": "Hero",
       "marvel_or_dc" : "Marvel",
       "image" : "https://i.pinimg.com/originals/cd/9d/3f/cd9d3fe18685573bddd2b14e2db59085.jpg",
+       "image_icon" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/MarvelLogo.svg/1200px-MarvelLogo.svg.png",
       "detail" : "A bite from a radioactive spider triggers mutations in Peter Parker's body, granting him superpowers.Spider-Man's other powers include significantly superhuman strength, a precognitive sixth sense famously referred to as his "spider-sense" or "spidey-sense" that alerts him to danger, perfect balance and equilibrium, as well as superhuman speed and agility." 
     },
    {
@@ -46,6 +52,7 @@
       "hero_or_not": "Villain",
       "marvel_or_dc" : "DC"
       "image" : "https://filmschoolrejects.com/wp-content/uploads/2020/02/Joker.png",
+     "image_icon" : "https://www.kinonews.ru/stuff/c5c6af4a7c5b397.jpg",
       "detail" : "This character is one of the most heinous of the villains that has ever existed in any comic book.  It was hinted in one that he has over 2,000 kills to his name.  His evil truly knows no bounds.  But he is also an example of what humanity could indeed become.  Mental madness means one thing, but when people are taught that mass killing is worthy of being canonized, then it may just be what happens to society at large. ",
     }
   ]
